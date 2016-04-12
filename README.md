@@ -1,4 +1,4 @@
-# django_saver
+# saver
 
 Django version of saver app
 
